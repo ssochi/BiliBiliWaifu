@@ -1,4 +1,5 @@
 ![cover](readme/cyberchat.png)
+本项目继承自https://github.com/cjyaddone/ChatWaifu,支持了b站弹幕实时读取的功能.
 # 使用ChatWaifu来回复你的b站直播弹幕
 ## b站设置直播相关(如果你不熟悉ChatWaifu项目,请先看后面的教程进行环境配置):
 0.下载模型文件
