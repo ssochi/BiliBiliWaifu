@@ -1,0 +1,3 @@
+#!c:\users\usky\downloads\chatwaifu-main\chatwaifu-main\chatwaifu\scripts\python.exe
+from numba.pycc import main
+main()
